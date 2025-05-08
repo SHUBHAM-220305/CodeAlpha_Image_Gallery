@@ -11,8 +11,4 @@ A responsive and modern image gallery built using **HTML**, **CSS**, and **JavaS
 - 🎨 Gradient background and elegant typography
 - 📱 Mobile-friendly and easy to customize
 
-<<<<<<< HEAD
 [Link to view Image Gallery](https://shubham-220305.github.io/CodeAlpha_Image_Gallery/)
-=======
-[Link to view Image Gallery](https://shubham-220305.github.io/CodeAlpha_Image_Gallery/)
->>>>>>> a2f0c49d9c632d85d86a1539fac421f411738385
