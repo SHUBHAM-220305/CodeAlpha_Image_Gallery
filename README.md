@@ -11,4 +11,4 @@ A responsive and modern image gallery built using **HTML**, **CSS**, and **JavaS
 - 🎨 Gradient background and elegant typography
 - 📱 Mobile-friendly and easy to customize
 
-[Link to view Image Gallery]()
+[Link to view Image Gallery](https://shubham-220305.github.io/Image-Gallery/)
